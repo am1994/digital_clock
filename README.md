@@ -4,6 +4,11 @@ This is  my flutter Clock challenge.
 it's a digital clock.
 It has a light theme and a dark theme.
 
+[Flutter Clock Challenge](https://flutter.dev/clock)
+
+# Flutter Clock Contest Submission
+
+
 <img src='digital.gif' width='350'>
 
 <img src='digital_dark.png' width='350'>
@@ -12,7 +17,7 @@ It has a light theme and a dark theme.
 
 # License 
 
-  Copyright 2019 Amina Bekir
+  Copyright 2019, Amina Bekir
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
